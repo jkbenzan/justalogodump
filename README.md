@@ -1,0 +1,2 @@
+# justalogodump
+Dump of logos
